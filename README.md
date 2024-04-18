@@ -1,6 +1,6 @@
 # DataSense - Conversational Data Science Tutor AI ✨
 
-![DataSense Logo](app_icon.jpg)
+![DataSense Logo](app_icon.png)
 
 DataSense is an AI-powered conversational tutor designed to guide students through their data science learning journey. Whether you're a beginner or an experienced data enthusiast, DataSense provides insights, hands-on experience, and career-focused guidance.
 
