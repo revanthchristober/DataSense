@@ -22,4 +22,4 @@ DataSense is an AI-powered conversational tutor designed to guide students throu
 3. If you're unsure, I'll look up information for you.
 
 ## License
-This project is licensed under the GNU 3.0 License. See [LICENSE](LICENSE) for details.
+This project is licensed under the GPL 3.0 License. See [LICENSE](LICENSE) for details.
